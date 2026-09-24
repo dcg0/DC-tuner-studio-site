@@ -1,5 +1,11 @@
 # DC Tuner Studio · Download Site
 
+
+<p align="center">
+  <a href="https://github.com/dcg0/DC-tuner-studio-site/actions/workflows/security.yml"><img src="https://github.com/dcg0/DC-tuner-studio-site/actions/workflows/security.yml/badge.svg" alt="Security checks"></a>
+  <a href="https://github.com/dcg0/DC-tuner-studio-site/security"><img src="https://img.shields.io/badge/security-policy-available-176b46" alt="Security policy available"></a>
+</p>
+
 Landing page oficial de descarga de **DC Tuner Studio**. El sitio es estático, no requiere servidor de aplicación y publica los binarios compilados para Linux x86_64 y Windows x86_64.
 
 ## Archivos publicados
